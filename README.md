@@ -24,12 +24,12 @@ Exemplo de estrutura:
 
 minilabs/
 └── Machine-Learning/
-├── .venv/
-├── requirements.txt
-├── 01__statsmodels/
-│ ├── data/
-│ ├── notebook/
-│ └── README.md
+    ├── .venv/
+    ├── requirements.txt
+    ├── 01__statsmodels/
+        ├── data/
+        ├── notebook/
+        └── README.md
 
 > ⚠️ Esta seção será atualizada conforme novas áreas forem incorporadas ao ciclo técnico do Small Data Lab.
 

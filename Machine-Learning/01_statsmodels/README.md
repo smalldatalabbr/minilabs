@@ -26,18 +26,12 @@ Investigar a existência de uma relação linear significativa entre o tamanho d
 
 ## 📁 Estrutura do Projeto
 
-minilabs/
-└── Machine-Learning/
-└── 01__statsmodels/
+01__statsmodels/
 ├── data/
-│ └── dataset.csv
+│   └── dataset.csv
 ├── notebook/
-│ └── minilab_analise_estatistica_statsmodels.ipynb
+│   └── minilab_analise_estatistica_statsmodels.ipynb
 └── README.md
-
-yaml
-Copiar
-Editar
 
 ## 🧠 Principais Aprendizados
 
