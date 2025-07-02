@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: watermark
+Version: 2.5.0
+Summary: IPython magic function to print date/time stamps and various system information.
+Home-page: https://github.com/rasbt/watermark
+Author: Sebastian Raschka
+Author-email: mail@sebastianraschka.com
+License: newBSD
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: IPython
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: ipython (>=6.0)
+Requires-Dist: importlib-metadata (>=1.4)
+Requires-Dist: setuptools
+Provides-Extra: gpu
+Requires-Dist: py3nvml (>=0.2) ; extra == 'gpu'
+
+An IPython magic extension for printing date and time stamps, version
+numbers, and hardware information.
+
+Contact
+=============
+If you have any questions or comments about watermark,
+please feel free to contact me via
+email: mail@sebastianraschka.com
+
+This project is hosted at https://github.com/rasbt/watermark
+
+The documentation can be found at
+https://github.com/rasbt/watermark/blob/master/README.md
