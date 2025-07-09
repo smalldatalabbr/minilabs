@@ -37,8 +37,6 @@ Investigar possíveis fatores associados ao churn de clientes, utilizando métod
 │ └── minilab_analise_estatistica_churn_cartao.ipynb.ipynb
 └── README.md
 
-
-
 ## 🧠 Principais Aprendizados / Insights
 
 - Como aplicar e interpretar testes de hipótese entre grupos
